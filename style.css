@@ -49,6 +49,10 @@ p {
     color: var(--grayish-blue);
 }
 
+.info {
+    margin-top: 25px;
+}
+
 .container {
     margin-top: 68px;
 
